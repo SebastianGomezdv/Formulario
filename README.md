@@ -1,2 +1,2 @@
 # Formulario
-Formulario, Logica de Programacion (GRUPO URIBE) JUAN SEBASTIAN ARBOLEDA GOMEZ
+Formulario, Introduccion a la Programacion (GRUPO URIBE) JUAN SEBASTIAN ARBOLEDA GOMEZ
